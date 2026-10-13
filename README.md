@@ -395,3 +395,7 @@ Hard wall-clock cap: 15 minutes per run (subprocess is killed past that), aligne
 - [`BENCHMARK_INSTRUCTIONS.md`](BENCHMARK_INSTRUCTIONS.md) — run order and
   rate-limit notes.
 - [`scripts/README.md`](scripts/README.md) — convenience runner reference.
+
+## License
+
+[Apache License 2.0](LICENSE) © 2026 Schipor Alexandru. The answer keys in the separate `Benchmark-scoring` repository are not part of this repository or its license.
